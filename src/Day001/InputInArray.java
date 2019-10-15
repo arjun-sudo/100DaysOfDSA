@@ -1,7 +1,6 @@
 package Day001;
 
 import java.util.Scanner;
-
 //taking input as array uing for loop
 public class InputInArray {
 	public static void main(String[] args) {
